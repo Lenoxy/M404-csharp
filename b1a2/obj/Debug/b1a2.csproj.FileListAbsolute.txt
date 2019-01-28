@@ -1,0 +1,10 @@
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\bin\Debug\b1a2.exe.config
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\bin\Debug\b1a2.exe
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\bin\Debug\b1a2.pdb
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.Form1.resources
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.csproj.GenerateResource.cache
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.exe
+C:\Users\vmadmin\Desktop\M404-csharp\b1a2\obj\Debug\b1a2.pdb

@@ -1,0 +1,10 @@
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\bin\Debug\testCalc.exe.config
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\bin\Debug\testCalc.exe
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\bin\Debug\testCalc.pdb
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.Form1.resources
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.csproj.GenerateResource.cache
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.exe
+C:\Users\vmadmin\Desktop\M404-csharp\testCalc\obj\Debug\testCalc.pdb
